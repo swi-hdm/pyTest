@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 angelegt im pc
+>>>>>>> 6a716994c37ea206188ce6aa519f4fb98486a248
